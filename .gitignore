@@ -1,0 +1,20 @@
+# Binaries and executables
+/app
+
+# Dependency files
+vendor/
+
+# Configuration files
+.env
+
+# IDE/editor settings
+*.swp
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# Docker-related
+docker-compose.override.yml
