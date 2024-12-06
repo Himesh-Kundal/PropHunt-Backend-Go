@@ -1,0 +1,15 @@
+# Ignore the Go build output
+/app
+
+# Dependency files
+vendor/
+
+
+# Node or editor-specific files (if any)
+node_modules/
+*.log
+.DS_Store
+
+# Version control and build artifacts
+.git
+.gitignore
